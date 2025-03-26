@@ -11,31 +11,13 @@
 > - C++
 > - C
 > - Flask
-> - MySQL
-
-> **Database**
->
-> - MySQL
-
-> **Tools**
->
-> - JetBrains Suite
-> - VS Code
-> - Visual Studio
-
-> **Currently Learning**
->
-> - Java
-
-> **Crossed Out**
->
 > - JavaScript
 > - HTML
 > - Node.js
 
-## 📩 联系我 Contact Me
+## 联系我
 
 - 📧 Email: [13536593830@163.com](mailto:13536593830@163.com)
-- 💎 QQ: 1843437591
+- 🐧 QQ: 1843437591
 
 

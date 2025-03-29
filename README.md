@@ -6,16 +6,13 @@
 
 ## 技术栈
 
-> - Python
-> - C++
-> - C
-> - Flask
-> - JavaScript
-> - HTML
-> - Node.js
+> - Python - Flask/Fastapi
+> - C/C++
+> - JavaScript & Node.js
+> - Vue & HTML/CSS
 
 ## 联系我
-
+- 🌐 [个人博客](https://blog.hgyjllk.top) - 欢迎访问我的博客！
 - 📧 Email: [13536593830@163.com](mailto:13536593830@163.com)
 - 🐧 QQ: 1843437591
 

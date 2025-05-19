@@ -1,14 +1,14 @@
 #  About Me
 
 - 大三在校，是`学生`
-- 正在接网页全栈的单子
-- 学习`C++` - boost
-- 技术栈侧重`后端`，前端只会写简单需求
+- 正在参加嵌入式与网页全栈的项目
+- 学习`C++`算法相关[https://leetcode.cn/](https://leetcode.cn/u/hgyjllk/)
+- 技术栈侧重`后端`接口开发，opencv/ocr自动化
 
 # 技术栈
 
-> - `Python` - Flask/Fastapi
-> - `C/C++`
+> - `Python` - Flask / Fastapi
+> - `C/C++` - 嵌入式 & Websocket
 > - `Node.js` & JavaScript
 > - `Vue` & HTML/CSS
 

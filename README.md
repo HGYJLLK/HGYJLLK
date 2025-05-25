@@ -7,8 +7,8 @@
 
 ## 技术栈
 
-> - `Python` - Flask / Fastapi
-> - `C/C++` - 嵌入式 & Websocket
+> - `Python` - Flask / Fastapi / OpenCV
+> - `C/C++` - 嵌入式 & Websocket & 算法
 > - `Node.js` & JavaScript
 > - `Vue` & HTML/CSS
 

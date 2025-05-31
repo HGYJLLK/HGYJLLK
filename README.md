@@ -1,6 +1,6 @@
 #  About Me
 
-> - 大三在校，是`学生`
+> - 目前在校，是`学生`
 > - 正在参加嵌入式与网页全栈的项目
 > - 学习`C++`算法相关 [我正在做的leetcode](https://leetcode.cn/u/hgyjllk/)
 > - 技术栈侧重`后端`接口开发，opencv/ocr自动化
